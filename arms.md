@@ -17,6 +17,3 @@ Delk, Pobłocki.
 * **Pochodzenie:**
 
 Herb ten jest modyfikacją herbu Brochowicz.
-
-# Przypisy
-
