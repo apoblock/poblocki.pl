@@ -1,6 +1,6 @@
 # HERB POBŁOCKI
 
-**Herb Pobłocki** (za [Wikipedia - Herb Pobłocki](https://pl.wikipedia.org/wiki/Pob%C5%82ocki)):
+**Herb Pobłocki** (za [Wikipedia – Herb Pobłocki](https://pl.wikipedia.org/wiki/Pob%C5%82ocki)):
 
 ![Herb Pobłocki](images/371px-POL_COA_Pobłocki_I_g.svg.png)
 
@@ -16,4 +16,4 @@ Delk, Pobłocki.
 
 * **Pochodzenie:**
 
-Herb ten jest modyfikacją herbu Brochowicz.
+Herb ten jest modyfikacją herbu Brochwicz.
