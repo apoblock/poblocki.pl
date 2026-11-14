@@ -1,3 +1,15 @@
+---
+title: Pobłocie
+description: Miejscowość Pobłocie, z której wywodzi się ród Pobłockich.
+lang: pl
+locale: pl_PL
+ref: poblocie
+permalink: /pl/poblocie/
+redirect_from:
+  - /poblocie
+  - /poblocie.html
+---
+
 # POBŁOCIE
 
 Pobłocie to nieduża wieś sołecka położona przy drodze łączącej Strzepcz z Wejherowem. Nie ma tu zabytków, a większość domów stojących wzdłuż szosy powstała po ostatniej wojnie.

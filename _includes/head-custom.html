@@ -1,0 +1,51 @@
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+{% include head-custom-google-analytics.html %}
+
+{% if page.ref %}
+{% assign en_page = site.pages | where: "ref", page.ref | where: "lang", "en" | first %}
+{% assign pl_page = site.pages | where: "ref", page.ref | where: "lang", "pl" | first %}
+{% if en_page %}<link rel="alternate" hreflang="en" href="{{ en_page.url | absolute_url }}">
+{% endif %}
+{% if pl_page %}<link rel="alternate" hreflang="pl" href="{{ pl_page.url | absolute_url }}">
+{% endif %}
+<link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
+{% endif %}
+
+<style>
+  #project_title a {
+    color: #fff;
+    text-decoration: none;
+  }
+  #site_nav {
+    margin: 16px 0 0;
+    font-size: 16px;
+    line-height: 1.8;
+  }
+  #site_nav a {
+    color: #fff;
+    margin-right: 16px;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(255, 255, 255, .4);
+  }
+  #site_nav a[aria-current="page"] {
+    font-weight: 700;
+    border-bottom-color: #fff;
+  }
+  #lang_switch {
+    margin: 8px 0 0;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: .06em;
+  }
+  #lang_switch a,
+  #lang_switch span {
+    color: #fff;
+  }
+  #lang_switch [aria-current="true"] {
+    font-weight: 700;
+  }
+</style>
+
+<!-- end custom head snippets -->
