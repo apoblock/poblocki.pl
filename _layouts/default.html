@@ -17,7 +17,7 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% assign strings = site.data.i18n[page.lang] %}
-          {% assign home = site.pages | where: "ref", "home" | where: "lang", page.lang | first %}
+          {% assign home = site.pages | where: "ref", "family-history" | where: "lang", page.lang | first %}
           <h1 id="project_title"><a href="{{ home.url | relative_url }}">{{ strings.title }}</a></h1>
           <h2 id="project_tagline">{{ strings.description }}</h2>
 
@@ -42,11 +42,7 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        <p><a href="{{ site.github.repository_url }}">{{ strings.github }}</a></p>
-        {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        <p class="copyright">poblocki.family{% if site.github.is_project_page %} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> · <a href="{{ site.github.repository_url }}">{{ strings.github }}</a>{% endif %}</p>
       </footer>
     </div>
   </body>

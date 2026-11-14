@@ -14,9 +14,10 @@ redirect_from:
 
 **Herb Pobłocki** (za [Wikipedia – Herb Pobłocki](https://pl.wikipedia.org/wiki/Pob%C5%82ocki)):
 
-![Herb Pobłocki](/images/371px-POL_COA_Pobłocki_I_g.svg.png)
-
-<cite>Obraz od Bastian, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14542711</cite>
+<figure>
+  <img src="/images/371px-POL_COA_Pobłocki_I_g.svg.png" alt="Herb Pobłocki">
+  <figcaption>Obraz od Bastian, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14542711</figcaption>
+</figure>
 
 * **Opis herbu:**
 

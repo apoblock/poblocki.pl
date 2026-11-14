@@ -90,17 +90,13 @@
   }
   #main_content figure {
     margin: 1.4em 0 1.6em;
+    text-align: center;
   }
   #main_content figure img {
     display: block;
-    max-width: min(100%, 720px);
+    width: 60%;
+    max-width: 100%;
     height: auto;
-  }
-  #main_content figure:has(img.roadside) {
-    text-align: center;
-  }
-  #main_content figure img.roadside {
-    max-width: min(100%, 420px);
     margin-inline: auto;
   }
   @media screen and (max-width: 720px) {

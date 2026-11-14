@@ -4,17 +4,19 @@ description: A short account of the Pobłocki family of Linia.
 lang: en
 locale: en_US
 ref: family-history
-permalink: /en/family-history/
+permalink: /en/
+redirect_from:
+  - /en/family-history/
 ---
 
 # **A SHORT ACCOUNT OF THE POBŁOCKI FAMILY**
 
-<figure>
-  <img class="roadside" src="/images/poblocie-entrance.jpg" alt="Roadside sign reading Pobłocie and the Kashubian name Pòbłocé">
-  <figcaption>Pobłocie, in Kashubian Pòbłocé.</figcaption>
-</figure>
-
 **I.** In 1797 Wojciech (Albert) Delk Pobłocki bought a farm in Linia. He married a Zielezińska, and after her death he married Milczewska, his servant, who played the great lady, squandered the farm, and even had an ox unhitched from the yoke when she had a craving for beef. Delk is a byname of one branch of the Pobłockis of Pobłocie. By the late 18th century that blood was leaving the village: in the [1772–1773 tax cadastre](https://dipp.info.pl/baza-dipp/pomorskie/powiat-wejherowski/gmina-linia/dwor-poblocie) it appears there only through daughters.
+
+<figure>
+  <img src="/images/linia-sign.jpg" alt="Road sign reading Linia and the Kashubian name Lëniô">
+  <figcaption>Linia, in Kashubian Lëniô.</figcaption>
+</figure>
 
 **II.** Augustyn was married to Joanna Ernestyna Sychowska. She was a very capable manager and ran the farm in Linia with a sure hand, while her husband was a teacher in Łężyce, near Rumia. The sons’ birthplaces follow those two homes: Juliusz was born in Łężyce, Leon in Linia. They raised 5 sons, 4 of them priests, and 2 daughters. A plaque dedicated to the Pobłocki priests hangs in the vestibule at the entrance to the church in Linia.
 
@@ -22,8 +24,8 @@ permalink: /en/family-history/
 2. [Gustaw](https://www.sejm-wielki.pl/b/psb.23286.1), *1840-09-21 in Łężyce, †1915-11-25 in Wtelno, a doctor of divinity, lexicographer, and writer. He was parish priest of [St Barbara in Kokoszkowy](https://parafiakokoszkowy.pl/duszpasterze/), between Fr Karol Latzke (until 1889) and Fr Wawrzyniec Insbrandt (from 1905). That is Kokoszkowy near Starogard, not Kokoszki in today’s Gdańsk. From 1905 he was parish priest in Wtelno, near Bydgoszcz, and he died there. He published *Słowniczek kaszubski* (Poznań, 1875) and [*Słownik kaszubski z dodatkiem idyotyzmów chełmińskich i kociewskich*](https://rcin.org.pl/ijp/dlibra/publication/43401/edition/24816/content) (Chełmno, 1887).
 3. [Leon](https://www.sejm-wielki.pl/b/psb.23288.1), *1856-09-11 in Linia, †1900-11-11 in Chełmno, where he is buried. A historian, teacher, and missionary. He was a Resurrectionist, went from Rome on a mission to Adrianople, and after an illness joined the Lazarists in Kraków.
 4. [Juliusz](https://www.sejm-wielki.pl/b/psb.23287.1), *1835-11-29 in Łężyce near Rumia, †1915-02-09 in Chełmno. A doctor of divinity, dean of Chełmno from 1888, honorary canon from 1904, and parish priest of Chełmno from 1872 to 1915, and a teacher and social activist. He studied theology in Pelplin and in Münster. He wrote the memoir [*Na Kaszubach przed stu laty*](https://www.zawszepomorze.pl/artykul/204,ks-bp-konstantyn-dominik-ktory-zyl-w-opinii-swietosci).
-5. Antoni, *1846-12-15, †1934-04-04, owner of Linia.
-6. Emilia married a Czarnowski and died on †1907-10-30. Their son was Tadeusz Czarnowski, director of the Regional Directorate of the State Railways in Gdańsk until 1939, with a private saloon car. He died in Jelenia Góra, and his wife in Wrocław.
+5. Antoni, *1846-12-15, †1934-04-04, owner of Linia. He is buried in the parish cemetery at Linia.
+6. Emilia married a Czarnowski and died on †1907-10-30. Their son was [Tadeusz Czarnowski](https://pl.wikipedia.org/wiki/Tadeusz_Czarnowski), director of the Regional Directorate of the State Railways in Gdańsk until 1939, with a private saloon car.
 7. Matylda, born in September 1840, married Jan Prabucki, owner of Grabowiec in the parish of Bobowo, and is buried in the old cholera cemetery at Bobowo. Their son [Władysław](https://www.sejm-wielki.pl/b/sw.113360) (*1885-09-08 in Grabowiec, †1954-05-17, buried in Jawor) took over Nowa Wieś in Golub county. Jan bought it on 14 November 1889 and transferred it to his son on 23 March 1908. Around 1910 Władysław married Wanda Żelewska (*1884, †1935). Wanda was the sister of Aniela, wife of Jan Woyke, owner of Łężyce, and their daughter was Zofia née Woyke, wife of Zygmunt Pobłocki. Władysław and Wanda’s son Witold (*1913 in Nowa Wieś, †1981) continued that line.
 
 In the cemetery at Chełmno, in the first row from the top, is the grave of the Pobłocki family:
@@ -41,7 +43,7 @@ In the cemetery at Chełmno, in the first row from the top, is the grave of the 
 1. Władysław and his wife Kazimiera (no children). A philologist and surveyor. After many years of work in America he returned and lived in Wejherowo. From 1928 to 1939 he was editor of *Gazeta Kaszubska*. A [city directory](http://kpbc.umk.pl/Content/215668) of about 1925 lists him as a journalist, at Hallera 5. In the same book Dr Juliusz is a judge at Dworcowa 2. Władysław joined the board of [“Gazeta Kaszubska” Drukarnia i Wydawnictwo S.A.](http://www.historiafabryk.pl/projekt/baza-spolek-akcyjnych/quot-gazeta-kaszubskaquot-drukarnia-i-wydawnictwo-s-a-w-wejherowie.html) in Wejherowo, registered on 5 September 1922. The paper ran until 1939. At its founding the largest shareholder was Ignacy Żylicz, and the other named board member was Józef Kokornaczyk. He was also a sworn translator of English, French, German, Russian, and Latin. He lived and died in Wejherowo.
 2. Dr Juliusz Pobłocki, *1888, and his wife Helena, raised 2 daughters and a son. In 1939 he was [vice-president of the regional court in Gdynia](https://www.skelnik.pl/sad-okregowy-w-gdyni/). From the company’s registration in 1922 he sat on its supervisory board. During hearings he spoke Kashubian, and in the courtroom he took snuff and offered it to others.
 3. Stanisław, *1890-02-14 in Linia, a doctor and a captain in the Polish Army. He died on †1942-01-11 as a prisoner of war, a physician in the camp hospital of Stalag XI C. He lies in an individual grave in the [war cemetery at Bergen-Lohheide](https://www.porta-polonica.de/en/war-graves/bergen-lohheide), beside the Bergen-Belsen camp, among the dead of a typhus epidemic. In 2012 a cross was set there with his name and that of Dr Roman Bilnik. His sons Zbigniew and Stanisław lived in Wejherowo after the war.
-4. Zygmunt, *1893-02-17, †1937-04-19. He was killed in a car accident in Łężyce. He was 44.
+4. Zygmunt, *1893-02-17, †1937-04-19. At the age of 44 he was killed in a car accident in Łężyce.
 5. Wojciech was killed on the German–French front in †1916, as a German soldier.
 6. Kazimierz, a second lieutenant of the Polish Army, fell †1920-08-15 near Warsaw.
 7. Jadwiga married a Szukalski, of the Lipinki estate, Starogard Gdański county. During the war she took part in the resistance in Pomerania. She died in Wejherowo.

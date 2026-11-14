@@ -13,7 +13,7 @@
   {% for code in codes %}
     {% assign alt = site.pages | where: "ref", page.ref | where: "lang", code | first %}
     {% unless alt %}
-      {% assign alt = site.pages | where: "ref", "home" | where: "lang", code | first %}
+      {% assign alt = site.pages | where: "ref", "family-history" | where: "lang", code | first %}
     {% endunless %}
     {% if code == current %}
       <span aria-current="true" lang="{{ code }}">{% include flag.html code=code %}{{ site.data.i18n[code].switch }}</span>

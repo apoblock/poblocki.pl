@@ -13,7 +13,7 @@ redirect_from:
 # POBŁOCIE
 
 <figure>
-  <img src="/images/poblocie-sign.jpg" alt="Tablica drogowa: Pobłocie i kaszubskie Pòbłocé">
+  <img src="/images/poblocie-entrance.jpg" alt="Tablica drogowa przy wjeździe: Pobłocie i kaszubskie Pòbłocé">
   <figcaption>Pobłocie, po kaszubsku Pòbłocé.</figcaption>
 </figure>
 
