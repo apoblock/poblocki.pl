@@ -28,4 +28,4 @@ Delk, Pobłocki.
 
 * **Pochodzenie:**
 
-Herb ten jest modyfikacją herbu Brochwicz.
+Herb ten jest modyfikacją herbu Brochwicz. Przemysław Pragert uważa go za odmianę Brochwicza, Juliusz Karol Ostrowski za odmianę Jelenia. Heraldyka zna co najmniej siedem wariantów. Na stronie jest wariant Ig, bo taki widnieje na pieczęci z 1872 roku Augustyna von Poblotzki z Linii, czyli Augustyna Pobłockiego z opisu rodu. Barwy tego wariantu pozostają nieznane. Rodzina używała też przydomków Delk, Kisz, Kościanek, Bach, Kołdras, Mach, Siedwa i Witek.
