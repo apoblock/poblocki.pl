@@ -6,8 +6,6 @@ pl:
   switch_name: Polski
   github: Zobacz na GitHubie
   nav:
-    - ref: home
-      label: Strona główna
     - ref: family-history
       label: Historia rodu
     - ref: poblocie
@@ -22,8 +20,6 @@ en:
   switch_name: English
   github: View on GitHub
   nav:
-    - ref: home
-      label: Home
     - ref: family-history
       label: Family history
     - ref: poblocie

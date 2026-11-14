@@ -10,7 +10,7 @@ permalink: /en/poblocie/
 # POBŁOCIE
 
 <figure>
-  <img src="/images/poblocie-sign.jpg" alt="Road sign reading Pobłocie and the Kashubian name Pòbłocé">
+  <img src="/images/poblocie-entrance.jpg" alt="Roadside sign reading Pobłocie and the Kashubian name Pòbłocé">
   <figcaption>Pobłocie, in Kashubian Pòbłocé.</figcaption>
 </figure>
 

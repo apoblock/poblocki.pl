@@ -4,20 +4,21 @@ description: Krótki opis rodu Pobłockich z Linii.
 lang: pl
 locale: pl_PL
 ref: family-history
-permalink: /pl/family-history/
+permalink: /pl/
 redirect_from:
+  - /pl/family-history/
   - /family_history
   - /family_history.html
 ---
 
 # **KRÓTKI OPIS RODU POBŁOCKICH**
 
-<figure>
-  <img class="roadside" src="/images/poblocie-entrance.jpg" alt="Tablica drogowa przy wjeździe: Pobłocie i kaszubskie Pòbłocé">
-  <figcaption>Pobłocie, po kaszubsku Pòbłocé.</figcaption>
-</figure>
-
 **I.** W roku 1797 Wojciech (Albert) Delk Pobłocki kupił gospodarstwo w Linii, ożenił się z Zielezińską, a po jej śmierci poślubił Milczewską, swoją służącą, która udawała wielką panią, trwoniła gospodarstwo, nawet wołu kazała wyprzęgać z jarzma, gdy miała apetyt na wołowinę. Delk to przydomek jednej z gałęzi Pobłockich z Pobłocia. Pod koniec XVIII wieku ta krew wychodziła już ze wsi: w [katastrze z lat 1772–1773](https://dipp.info.pl/baza-dipp/pomorskie/powiat-wejherowski/gmina-linia/dwor-poblocie) występuje tam po kądzieli.
+
+<figure>
+  <img src="/images/linia-sign.jpg" alt="Tablica drogowa: Linia i kaszubskie Lëniô">
+  <figcaption>Linia, po kaszubsku Lëniô.</figcaption>
+</figure>
 
 **II.** Augustyn żonaty był z Joanną Ernestyną Sychowską. Była bardzo gospodarną kobietą i prowadziła wprawną ręką gospodarstwo w Linii, a mąż był nauczycielem w Łężycach koło Rumii. Stąd dwa miejsca urodzenia synów: Juliusz przyszedł na świat w Łężycach, Leon w Linii. Wychowali 5 synów, w tym 4 księży, i 2 córki. Tablica poświęcona księżom Pobłockim znajduje się w przedsionku przy wejściu do kościoła w Linii.
 
@@ -25,8 +26,8 @@ redirect_from:
 2. [Gustaw](https://www.sejm-wielki.pl/b/psb.23286.1) *1840-09-21 w Łężycach, †1915-11-25 we Wtelnie, ksiądz doktor, leksykograf i literat. Proboszcz [parafii św. Barbary w Kokoszkowach](https://parafiakokoszkowy.pl/duszpasterze/), między ks. Karolem Latzkem (do 1889 roku) a ks. Wawrzyńcem Insbrandtem (od 1905). To Kokoszkowy koło Starogardu, nie dzisiejsze gdańskie Kokoszki. Od 1905 roku był proboszczem we Wtelnie pod Bydgoszczą i tam zmarł. Wydał *Słowniczek kaszubski* (Poznań, 1875) i [*Słownik kaszubski z dodatkiem idyotyzmów chełmińskich i kociewskich*](https://rcin.org.pl/ijp/dlibra/publication/43401/edition/24816/content) (Chełmno, 1887).
 3. [Leon](https://www.sejm-wielki.pl/b/psb.23288.1) *1856-09-11 w Linii, †1900-11-11 w Chełmnie, gdzie jest pochowany. Historyk, pedagog i misjonarz. Był zmartwychwstańcem, z Rzymu pojechał na misję do Adrianopola, a po chorobie wstąpił do lazarystów w Krakowie.
 4. [Juliusz](https://www.sejm-wielki.pl/b/psb.23287.1) *1835-11-29 w Łężycach pod Rumią, †1915-02-09 w Chełmnie, ksiądz doktor, dziekan chełmiński od 1888 roku, kanonik honorowy od 1904, proboszcz chełmiński w latach 1872–1915, nauczyciel i działacz społeczny. Studiował teologię w Pelplinie i w Münsterze. Napisał wspomnienia [*Na Kaszubach przed stu laty*](https://www.zawszepomorze.pl/artykul/204,ks-bp-konstantyn-dominik-ktory-zyl-w-opinii-swietosci).
-5. Antoni *1846-12-15, †1934-04-04, właściciel Linii.
-6. Emilia wyszła za mąż za Czarnowskiego i zmarła †1907-10-30. Ich synem był Tadeusz Czarnowski, dyrektor Dyrekcji Okręgowej Kolei Państwowych w Gdańsku do 1939 roku, z salonką do dyspozycji. Zmarł w Jeleniej Górze, a jego żona we Wrocławiu.
+5. Antoni *1846-12-15, †1934-04-04, właściciel Linii. Pochowany na cmentarzu parafialnym w Linii.
+6. Emilia wyszła za mąż za Czarnowskiego i zmarła †1907-10-30. Ich synem był [Tadeusz Czarnowski](https://pl.wikipedia.org/wiki/Tadeusz_Czarnowski), dyrektor Dyrekcji Okręgowej Kolei Państwowych w Gdańsku do 1939 roku, z salonką do dyspozycji.
 7. Matylda, urodzona we wrześniu 1840 roku, wyszła za Jana Prabuckiego, właściciela Grabowca w parafii Bobowo, i jest pochowana na starym cmentarzu cholerycznym w Bobowie. Ich syn [Władysław](https://www.sejm-wielki.pl/b/sw.113360) (*1885-09-08 w Grabowcu, †1954-05-17, pochowany w Jaworze) objął Nową Wieś w powiecie golubskim. Jan kupił ją 14 listopada 1889 roku i 23 marca 1908 przekazał synowi. Władysław ożenił się około 1910 roku z Wandą Żelewską (*1884, †1935). Wanda była siostrą Anieli, żony Jana Woyke, właściciela Łężyc, a ich córką była Zofia z Woyków, żona Zygmunta Pobłockiego. Syn Władysława i Wandy, Witold (*1913 w Nowej Wsi, †1981), przedłużył tę linię.
 
 W Chełmnie na cmentarzu, w pierwszym rzędzie od góry, znajduje się grób rodziny Pobłockich:
@@ -44,7 +45,7 @@ W Chełmnie na cmentarzu, w pierwszym rzędzie od góry, znajduje się grób rod
 1. Władysław i żona Kazimiera (bezdzietni). Filolog i mierniczy. Po wieloletniej pracy w Ameryce wrócił i mieszkał w Wejherowie. W latach 1928–1939 był redaktorem „Gazety Kaszubskiej”. [Księga adresowa](http://kpbc.umk.pl/Content/215668) z około 1925 roku zapisuje go jako dziennikarza, Hallera 5. W tej samej księdze dr Juliusz jest sędzią przy Dworcowej 2. Władysław wszedł do zarządu spółki [„Gazeta Kaszubska” Drukarnia i Wydawnictwo S.A.](http://www.historiafabryk.pl/projekt/baza-spolek-akcyjnych/quot-gazeta-kaszubskaquot-drukarnia-i-wydawnictwo-s-a-w-wejherowie.html) w Wejherowie, zarejestrowanej 5 września 1922 roku. Gazeta wychodziła do 1939 roku. Największym akcjonariuszem przy założeniu był Ignacy Żylicz, a drugim członkiem zarządu Józef Kokornaczyk. Był także tłumaczem przysięgłym języka angielskiego, francuskiego, niemieckiego, rosyjskiego i łaciny. Mieszkał i zmarł w Wejherowie.
 2. Dr Juliusz Pobłocki *1888, żona Helena: wychowali 2 córki i syna. W 1939 roku był [wiceprezesem Sądu Okręgowego w Gdyni](https://www.skelnik.pl/sad-okregowy-w-gdyni/). Od rejestracji spółki w 1922 roku zasiadał w jej radzie nadzorczej. Podczas rozpraw rozmawiał po kaszubsku, a na sali sądowej zażywał i częstował tabaką.
 3. Stanisław *1890-02-14 w Linii, lekarz i kapitan Wojska Polskiego. Zmarł †1942-01-11 jako jeniec, lekarz szpitala obozowego Stalagu XI C. Leży w pojedynczym grobie na [cmentarzu wojennym w Bergen-Lohheide](https://www.porta-polonica.de/pl/wojenne/bergen-lohheide), przy obozie Bergen-Belsen, wśród ofiar epidemii tyfusu. W 2012 roku ustawiono tam krzyż z jego nazwiskiem i nazwiskiem dr. Romana Bilnika. Synowie Zbigniew i Stanisław po wojnie mieszkali w Wejherowie.
-4. Zygmunt *1893-02-17, †1937-04-19. Zginął w wypadku samochodowym w Łężycach. Miał 44 lata.
+4. Zygmunt *1893-02-17, †1937-04-19. W wieku 44 lat zginął w wypadku samochodowym w Łężycach.
 5. Wojciech zginął na froncie niemiecko-francuskim w †1916 roku jako żołnierz niemiecki.
 6. Kazimierz, podporucznik WP, poległ †1920-08-15 pod Warszawą.
 7. Jadwiga wyszła za Szukalskiego, majątek Lipinki, powiat Starogard Gdański. W czasie wojny działała w ruchu oporu na Pomorzu. Zmarła w Wejherowie.

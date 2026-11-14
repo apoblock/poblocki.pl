@@ -67,7 +67,7 @@ A reading discussed and not published: *1860-01-06, if a handwritten 6 was read 
 
 ### Tadeusz Czarnowski
 
-The pages say Tadeusz Czarnowski was Emilia’s son: director of the Gdańsk railway directorate until 1939, a private saloon car, died in Jelenia Góra, his wife in Wrocław. They do not compare that with the published life. That life is a Tadeusz Czarnowski born *1872-08-22 in Łebno, died †1950-12-27 in Wrocław, director from 1920 to 30 September 1929, married to Stefania née Prabucka on 10 November 1909. Whether he is the same man is not settled here. The only suggested link through the Prabuckis is his wife’s maiden name, and that is not enough to identify him. https://pl.wikipedia.org/wiki/Tadeusz_Czarnowski and https://gdansk.gedanopedia.pl/gdansk/?title=CZARNOWSKI_TADEUSZ%2C_in%C5%BCynier%2C_patron_gda%C5%84skiej_ulicy
+The pages say Tadeusz Czarnowski was Emilia’s son, director of the Gdańsk railway directorate until 1939, with a private saloon car, and they link his name to the Polish Wikipedia. They do not give a place of death, and they do not compare him with the published life. The account also said he died in Jelenia Góra and his wife in Wrocław. That life is a Tadeusz Czarnowski born *1872-08-22 in Łebno, died †1950-12-27 in Wrocław, director from 1920 to 30 September 1929, married to Stefania née Prabucka on 10 November 1909. Whether he is the same man is not settled here. The only suggested link through the Prabuckis is his wife’s maiden name, and that is not enough to identify him. https://pl.wikipedia.org/wiki/Tadeusz_Czarnowski and https://gdansk.gedanopedia.pl/gdansk/?title=CZARNOWSKI_TADEUSZ%2C_in%C5%BCynier%2C_patron_gda%C5%84skiej_ulicy
 
 ### Nowa Wieś
 
