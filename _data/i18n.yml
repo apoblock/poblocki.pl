@@ -4,6 +4,7 @@ pl:
   nav_label: Nawigacja
   switch: PL
   switch_name: Polski
+  github: Zobacz na GitHubie
   nav:
     - ref: home
       label: Strona główna
@@ -19,6 +20,7 @@ en:
   nav_label: Navigation
   switch: EN
   switch_name: English
+  github: View on GitHub
   nav:
     - ref: home
       label: Home
