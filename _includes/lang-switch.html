@@ -16,11 +16,10 @@
       {% assign alt = site.pages | where: "ref", "home" | where: "lang", code | first %}
     {% endunless %}
     {% if code == current %}
-      <span aria-current="true" lang="{{ code }}">{{ site.data.i18n[code].switch }}</span>
+      <span aria-current="true" lang="{{ code }}">{% include flag.html code=code %}{{ site.data.i18n[code].switch }}</span>
     {% elsif alt %}
-      <a href="{{ alt.url | relative_url }}" hreflang="{{ code }}" lang="{{ code }}" data-lang="{{ code }}" aria-label="{{ site.data.i18n[code].switch_name }}">{{ site.data.i18n[code].switch }}</a>
+      <a href="{{ alt.url | relative_url }}" hreflang="{{ code }}" lang="{{ code }}" data-lang="{{ code }}" aria-label="{{ site.data.i18n[code].switch_name }}">{% include flag.html code=code %}{{ site.data.i18n[code].switch }}</a>
     {% endif %}
-    {% unless forloop.last %} | {% endunless %}
   {% endfor %}
 </p>
 <script>

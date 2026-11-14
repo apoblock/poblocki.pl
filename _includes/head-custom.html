@@ -14,14 +14,39 @@
 {% endif %}
 
 <style>
+  #header_wrap .inner,
+  #main_content_wrap .inner,
+  #footer_wrap .inner {
+    width: 78%;
+    max-width: 78%;
+    box-sizing: border-box;
+  }
+  #header_wrap .inner {
+    padding: 12px 10px 10px;
+  }
+  #project_title {
+    font-size: 30px;
+    line-height: 1.15;
+    padding-right: 8rem;
+  }
   #project_title a {
     color: #fff;
     text-decoration: none;
   }
+  #project_tagline {
+    margin: 2px 0 0;
+    padding: 0;
+    font-size: 17px;
+    line-height: 1.3;
+    letter-spacing: 0;
+  }
+  #main_content {
+    padding-top: 24px;
+  }
   #site_nav {
-    margin: 16px 0 0;
+    margin: 6px 0 0;
     font-size: 16px;
-    line-height: 1.8;
+    line-height: 1.4;
   }
   #site_nav a {
     color: #fff;
@@ -34,17 +59,68 @@
     border-bottom-color: #fff;
   }
   #lang_switch {
-    margin: 8px 0 0;
+    position: absolute;
+    top: 14px;
+    right: 10px;
+    margin: 0;
     color: #fff;
     font-size: 14px;
     letter-spacing: .06em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
   }
   #lang_switch a,
   #lang_switch span {
     color: #fff;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
   }
   #lang_switch [aria-current="true"] {
     font-weight: 700;
+  }
+  #lang_switch .flag {
+    height: 12px;
+    width: auto;
+    display: block;
+    border-radius: 1px;
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, .45);
+  }
+  #main_content figure {
+    margin: 1.4em 0 1.6em;
+  }
+  #main_content figure img {
+    display: block;
+    max-width: min(100%, 720px);
+    height: auto;
+  }
+  #main_content figure:has(img.roadside) {
+    text-align: center;
+  }
+  #main_content figure img.roadside {
+    max-width: min(100%, 420px);
+    margin-inline: auto;
+  }
+  @media screen and (max-width: 720px) {
+    #header_wrap .inner,
+    #main_content_wrap .inner,
+    #footer_wrap .inner {
+      width: auto;
+      max-width: none;
+    }
+    #header_wrap .inner {
+      padding: 12px 10px 10px;
+    }
+    #project_title {
+      padding-right: 7.5rem;
+    }
+  }
+  #main_content figcaption {
+    margin-top: .5em;
+    font-size: .92em;
+    line-height: 1.45;
   }
 </style>
 
