@@ -25,4 +25,4 @@ Delk, Pobłocki.
 
 * **Origin:**
 
-This coat of arms is a modification of the Brochwicz arms. Przemysław Pragert treats it as a Brochwicz variant, and Juliusz Karol Ostrowski as a Jeleń variant. Heraldry records at least seven versions. The one on this page is variant Ig, because that is the device on the 1872 seal of Augustin von Poblotzki of Linia, the Augustyn Pobłocki of the family account. The tinctures of this variant are still unknown. The family also used the bynames Delk, Kisz, Kościanek, Bach, Kołdras, Mach, Siedwa, and Witek.
+This coat of arms is a modification of the Brochwicz arms. Przemysław Pragert treats it as a Brochwicz variant, and Juliusz Karol Ostrowski as a Jeleń variant. Heraldry records at least seven versions. The one on this page is variant Ig, because that is the device on the 1872 seal of Augustin von Poblotzki of Linia. The tinctures of this variant are still unknown. The family also used the bynames Delk, Kisz, Kościanek, Bach, Kołdras, Mach, Siedwa, and Witek.
