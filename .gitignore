@@ -14,3 +14,8 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Jekyll build output
+_site
+.jekyll-cache
+.sass-cache

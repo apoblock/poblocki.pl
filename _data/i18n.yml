@@ -1,0 +1,30 @@
+pl:
+  title: Pobłocki
+  description: Historia rodu Pobłockich z Linii
+  nav_label: Nawigacja
+  switch: PL
+  switch_name: Polski
+  nav:
+    - ref: home
+      label: Strona główna
+    - ref: family-history
+      label: Historia rodu
+    - ref: poblocie
+      label: Pobłocie
+    - ref: arms
+      label: Herb
+en:
+  title: Pobłocki
+  description: History of the Pobłocki family of Linia
+  nav_label: Navigation
+  switch: EN
+  switch_name: English
+  nav:
+    - ref: home
+      label: Home
+    - ref: family-history
+      label: Family history
+    - ref: poblocie
+      label: Pobłocie
+    - ref: arms
+      label: Coat of arms

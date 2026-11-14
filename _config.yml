@@ -1,1 +1,19 @@
 theme: jekyll-theme-slate
+url: https://poblocki.family
+title: Pobłocki
+description: Historia rodu Pobłockich z Linii
+permalink: pretty
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - CNAME
+  - README.md

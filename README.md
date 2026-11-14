@@ -1,9 +1,10 @@
-# Wstęp
+# Pobłocki
 
-Ta strona przedstawia historię rodu Pobłockich z Linii.
+Historia rodu Pobłockich z Linii. History of the Pobłocki family of Linia.
 
-# Spis treści
+The site is published at <https://poblocki.family>.
 
-* [Historia rodu](family_history.md)
-* [Miejscowość Pobłocie](poblocie.md)
-* [Herb](arms.md)
+* [Polski](https://poblocki.family/pl/)
+* [English](https://poblocki.family/en/)
+
+Each page has a Polish copy in `pl/` and an English copy in `en/`, with the same `ref` in the front matter. Labels for the header are in `_data/i18n.yml`.

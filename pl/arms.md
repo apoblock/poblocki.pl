@@ -1,8 +1,20 @@
+---
+title: Herb Pobłocki
+description: Herb rodu Pobłockich.
+lang: pl
+locale: pl_PL
+ref: arms
+permalink: /pl/arms/
+redirect_from:
+  - /arms
+  - /arms.html
+---
+
 # HERB POBŁOCKI
 
 **Herb Pobłocki** (za [Wikipedia – Herb Pobłocki](https://pl.wikipedia.org/wiki/Pob%C5%82ocki)):
 
-![Herb Pobłocki](images/371px-POL_COA_Pobłocki_I_g.svg.png)
+![Herb Pobłocki](/images/371px-POL_COA_Pobłocki_I_g.svg.png)
 
 <cite>Obraz od Bastian, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14542711</cite>
 

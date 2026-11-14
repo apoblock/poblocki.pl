@@ -1,3 +1,15 @@
+---
+title: Krótki opis rodu Pobłockich
+description: Krótki opis rodu Pobłockich z Linii.
+lang: pl
+locale: pl_PL
+ref: family-history
+permalink: /pl/family-history/
+redirect_from:
+  - /family_history
+  - /family_history.html
+---
+
 # **KRÓTKI OPIS RODU POBŁOCKICH**
 
 **I.** W roku 1797 Wojciech (Albert) Delk Pobłocki kupił gospodarstwo w Linii, ożenił się z Zielezińską, a po jej śmierci poślubił Milczewską, swoją służącą, która udawała wielką panią, trwoniła gospodarstwo, nawet wołu kazała wyprzęgać z jarzma, gdy miała apetyt na wołowinę.
