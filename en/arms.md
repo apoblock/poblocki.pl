@@ -11,9 +11,9 @@ permalink: /en/arms/
 
 **The Pobłocki coat of arms** (after [Wikipedia – Herb Pobłocki](https://pl.wikipedia.org/wiki/Pob%C5%82ocki)):
 
-<figure>
+<figure class="arms">
   <img src="/images/371px-POL_COA_Pobłocki_I_g.svg.png" alt="Pobłocki coat of arms">
-  <figcaption>Image by Bastian, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14542711</figcaption>
+  <figcaption>Image: <a href="https://commons.wikimedia.org/w/index.php?curid=14542711">Bastian, CC BY 3.0</a></figcaption>
 </figure>
 
 * **Blazon:**
