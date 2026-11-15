@@ -30,7 +30,7 @@ Custom CSS is in `_includes/head-custom.html`, after the Slate theme.
 
 - The text column is 78% of the window.
 - Language links sit at the top right: the Polish flag, then the United States flag.
-- Every picture in the text is 60% of the column, centered, inside a `<figure>`.
+- Every picture in the text is 60% of the column, centered, inside a `<figure>`. The coat of arms is the exception: it is smaller and sits to the left of its description.
 - The family history shows `images/linia-sign.jpg` under chapter I. The Pobłocie page shows `images/poblocie-entrance.jpg`.
 - The footer is one line: `poblocki.family`, who maintains it, and the GitHub link. Do not add “Published with GitHub Pages”.
 

@@ -3,6 +3,11 @@ url: https://poblocki.family
 title: Pobłocki
 description: Historia rodu Pobłockich z Linii
 permalink: pretty
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
